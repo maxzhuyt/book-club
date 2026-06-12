@@ -1,0 +1,6 @@
+scope,test,chi2,df,p_value
+pooled,camp_x_variant,12.92,6,0.006998600279944011
+per_probe,camp_x_variant,211.196,6,0.0001999600079984003
+per_probe:neutral,camp_x_arm,14.755,6,0.020795840831833633
+per_probe:selective,camp_x_arm,5.112,6,0.27874425114977003
+per_probe:selective_blind,camp_x_arm,3.212,6,0.5170965806838632

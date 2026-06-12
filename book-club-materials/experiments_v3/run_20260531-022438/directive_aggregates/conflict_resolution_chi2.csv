@@ -1,0 +1,3 @@
+scope,test,chi2,df,p_value
+pooled,conflict_resolution_x_variant,86.961,6,0.0001999600079984003
+per_probe,conflict_resolution_x_variant,1107.28,6,0.0001999600079984003

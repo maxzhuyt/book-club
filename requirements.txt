@@ -1,0 +1,16 @@
+# Book Club V3 dependencies. Tested with Python 3.11 (3.10+ required for `X | None` hints).
+#
+# Core LLM client (sweeps + coders, via OpenRouter):
+openai>=1.30
+
+# Analysis + figures:
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.12        # only analyze_v3.py
+markdown>=3.5        # only report_v3/serve_report.py (local report viewer)
+
+# Only needed to RE-DERIVE A/B groups & personas from the upstream Goodreads
+# scrape (groups.py / persona_build.py); the bundled groups.json + personas_v3/
+# mean you can skip this for everything else:
+pyarrow>=14.0

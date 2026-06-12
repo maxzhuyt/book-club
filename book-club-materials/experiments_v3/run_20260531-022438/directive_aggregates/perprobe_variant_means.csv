@@ -1,0 +1,4 @@
+scope,variant,n,editorial_commitment,specificity,takeaway_count,craft_vocab_count
+per_probe,neutral,540,3.744,3.213,3.396,0.361
+per_probe,selective,540,4.998,4.757,6.654,5.922
+per_probe,selective_blind,540,5.0,4.796,6.757,1.119

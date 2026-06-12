@@ -1,0 +1,77 @@
+# The Andalusian Ledger
+
+The ink had not yet dried on the morning's first assessments when Khalid ibn Musa felt the familiar ache settling behind his eyes. Thirty-two years in the Diwan al-Kharaj had taught him to recognize the sensation as clearly as a sailor recognizes the first suggestion of storm clouds. It meant a long day. It meant discrepancies.
+
+He sat in the eastern wing of the treasury complex, where tall windows admitted slanting November light across rows of scribes bent over their calculations. The chamber smelled of cedar from the document cases, of iron gall ink, of the particular mustiness that accumulated paper acquires over centuries. Somewhere in the archives beneath his feet lay tax records from the reign of Harun al-Rashid himself, three hundred years moldering in the darkness, testament to an empire that had learned to write everything down and forget nothing.
+
+"The Andalusian returns, sayyid."
+
+Khalid's assistant Faruq placed the leather satchel on the desk with the careful reverence the western documents always seemed to demand. They had traveled four months to reach Baghdad, carried by imperial post riders across the Maghreb, loaded onto ships at Tunis, offloaded at Alexandria, transferred to Nile barges, then overland again through Palestine and the Syrian desert. By the time Andalusian tax records reached the capital, the information they contained described a world that had already moved on without them.
+
+"Which province?"
+
+"Gharnatah, sayyid. The southern districts."
+
+Khalid untied the satchel's leather cords and removed the bound sheaves within. The paper itself announced its origin—Andalusian mills produced a slightly coarser grain than the Egyptian sheets preferred in Baghdad, with a faint bluish tint some attributed to the mineral content of Iberian water. He had processed enough western documents to identify a province by the texture of its correspondence alone.
+
+The covering letter bore the seal of the provincial governor, Abd al-Rahman ibn Ghalib, a name Khalid knew only as a signature recurring across years of administrative communication. They had never met. They would never meet. Yet Khalid felt he understood something essential about the man from how his secretaries organized their figures, from the particular phrasings they employed, from the small marginal notations that revealed whether a governor paid attention to his accounts or merely stamped what his subordinates prepared.
+
+Ibn Ghalib paid attention. His margins were busy with clarifications.
+
+Khalid began with the agricultural assessments, running his finger down columns of figures representing olive yields, grain harvests, silk production from the mulberry groves that had made Gharnatah famous. The numbers told a story of adequate rainfall, of orchards recovering from a blight mentioned in the previous year's reports, of continued expansion of irrigated lands along the river valleys. He made small marks in his own notation system, a personal shorthand developed over decades that no one else in the Diwan could fully decipher.
+
+The commercial taxes came next. Tariffs on goods moving through the port of Malaqah. Market fees from the souks of Gharnatah itself. Revenue from the state monopolies on salt and certain dyes. Here Khalid slowed, his eye caught by an entry he did not immediately understand.
+
+"Faruq."
+
+His assistant appeared at his shoulder.
+
+"What is the current exchange rate for the Andalusian dinar against our standard?"
+
+"One to one, sayyid. The western mints hold to the prescribed weight and purity. The Caliph's inspectors confirmed this in the last assay report."
+
+"Then explain this figure to me."
+
+Khalid pointed to a line item recording taxes collected from foreign merchants operating in Malaqah. The sum was denominated in Andalusian dinars but annotated with a conversion calculation that applied a different rate entirely—one that undervalued the local currency by nearly eight percent.
+
+Faruq leaned closer, frowning. "Perhaps a scribal error, sayyid. Someone applying an outdated rate from before the currency reform."
+
+"Perhaps." Khalid did not believe it. Scribal errors in provincial treasuries tended toward the dramatic—transposed digits, misplaced decimal points, the occasional invented village that existed only to justify embezzlement. This was too subtle. This was the kind of discrepancy that required understanding of how the system worked in order to exploit it.
+
+He turned to the accompanying documentation, the subsidiary ledgers and receipts that provincial governors were required to submit along with their summary assessments. The Diwan demanded these supporting materials precisely because summary figures could lie while the accumulated mass of individual transactions made lying laborious. Somewhere in these pages, if the discrepancy was intentional, there would be a pattern.
+
+An hour passed. Faruq brought tea, which grew cold at Khalid's elbow. The other scribes completed their morning assignments and broke for the midday meal. Khalid remained at his desk, surrounded by growing stacks of sorted documents, following a thread that seemed to appear and disappear like a stream running through limestone country.
+
+The pattern, when he finally identified it, was elegant in its modesty. The eight percent discrepancy appeared only in transactions involving merchants from the Christian kingdoms to the north—traders from Castile, from Aragon, from the small mountain territories that clung to existence along the Pyrenees. These merchants, operating under treaties that permitted them limited access to Caliphate ports, were being assessed taxes at a rate that assumed their payments in Andalusian dinars were worth less than identical payments from Muslim traders.
+
+The lost revenue was not enormous. Calculated across a year, it might amount to a few thousand dinars—significant for a village, trivial for an empire. But the mechanism interested Khalid more than the amount. Someone in Gharnatah had constructed a system for redirecting a small but steady stream of imperial revenue somewhere other than the imperial treasury. The question was whether that someone was a corrupt customs official enriching himself or whether the diversion served some purpose the provincial governor had chosen not to report to Baghdad.
+
+Khalid sat back and rubbed his eyes. Outside the windows, the afternoon call to prayer echoed across the city, a sound so familiar he usually registered it only as a marker of time. Today it reminded him of the distance between this room and the place these documents described. Four months of travel. A world away, yet still—officially, legally, administratively—part of the same polity that employed him.
+
+He had never seen al-Andalus. He had never seen the sea. His entire life had unfolded within a day's journey of Baghdad, yet his work connected him to provinces he could not imagine except through the abstraction of their paperwork. He knew Gharnatah through its olive yields and tax receipts. He knew its governor through marginal notations. He knew its merchants through the transactions they reported and, apparently, through the transactions they attempted to hide.
+
+"Faruq."
+
+His assistant had returned from prayers and stood waiting near the door.
+
+"Prepare a file. The Gharnatah returns require further examination before I can certify them. I will draft an inquiry to the provincial treasury requesting clarification on their currency conversion methodology for transactions involving Christian merchants."
+
+"Yes, sayyid. Shall I flag it for the attention of the Vizier's office?"
+
+Khalid considered this. A report to the Vizier would elevate the matter, would transform a procedural inquiry into a political question. It would invite scrutiny not only of Gharnatah but of himself, of his methods, of his decision to notice what generations of treasury officials had perhaps chosen to overlook.
+
+The empire endured because it had learned to absorb small frictions, to permit provincial governors enough autonomy that they did not chafe against central control, to look away from minor irregularities in exchange for major compliance. Khalid understood this. He had built his career on understanding this.
+
+But eight percent, applied consistently across decades of transactions, represented a philosophy. It represented someone in Gharnatah who believed that Christian merchants should be treated differently than the treaty terms specified. It represented a local policy operating beneath the surface of imperial policy, invisible from Baghdad unless someone chose to look.
+
+"Not yet," Khalid said. "First the inquiry. Let us see how the provincial treasury explains itself before we decide what else needs explaining."
+
+Faruq nodded and withdrew to prepare the necessary correspondence. Khalid gathered the Andalusian documents back into their satchel, retying the leather cords with the same careful attention the papers had received throughout their long journey east. In four months, his inquiry would reach Gharnatah. In eight months, if the provincial bureaucracy moved promptly, he might receive a response. By then the world the documents described would have moved on twice over, and whatever was happening in the customs houses of Malaqah would have continued happening, indifferent to his notice.
+
+He placed the satchel in his personal cabinet, the one reserved for matters requiring further attention. It joined a small collection of similar files, other discrepancies he had identified over the years, other questions he had asked that had never been satisfactorily answered. The cabinet was not large. An empire that spanned the known world generated surprisingly few genuine mysteries. Most irregularities resolved into incompetence or explained themselves upon closer examination.
+
+But some did not. Some represented the places where the seams of empire showed, where the fiction of unified governance encountered the reality of distance and difference. Khalid collected these. He did not know what he would do with them. Perhaps nothing. Perhaps someday the accumulated weight of small frictions would suggest a larger pattern, a shape that could only be perceived from the particular vantage point his thirty-two years in the treasury had provided.
+
+The afternoon light had shifted, falling now across empty desks as the other scribes returned from their meals. Khalid finally reached for his cold tea and drank it anyway, his thoughts still four months west, in a customs house by the sea, where someone had decided that eight percent was worth the risk of discovery.
+
+He wondered if they had expected anyone in Baghdad to notice. He wondered if anyone in Baghdad ever had before.

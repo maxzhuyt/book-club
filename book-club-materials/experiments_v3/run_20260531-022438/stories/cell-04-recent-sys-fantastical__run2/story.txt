@@ -1,0 +1,69 @@
+# Shift Change
+
+The clipboard had belonged to Davies before the Coventry raid. Margaret still found his annotations in the margins sometimes—cramped notes about a particular lathe's tendency to drift or which casters poured too hot. She'd inherited it along with his office, his morning rounds, and the particular dread that accompanied opening the night shift's production log.
+
+She walked the floor at six, before the day shift arrived and filled the building with competing noises. The Wellston plant stretched long and narrow, a converted textile mill that still smelled of lanolin beneath the newer scents of cordite and hot iron. Morning light fell through the high windows in pale sheets, catching the chalk dust that never quite settled.
+
+Row seven first. The shell casings stood ranked in wooden frames, waiting for transport to the filling station in Dudley. Margaret lifted one at random, hefting its weight, checking the machining around the rim. Good enough. She pulled her spectrometer from her coat pocket—a brass tube etched with symbols that had no place in her Birmingham Technical College education—and peered through it at the casing's surface.
+
+The binding spiral wound correctly from base to tip, a faint iridescence visible only through the filtered lens. She'd seen poorly bound casings before. They didn't explode prematurely, nothing so dramatic. They simply failed to explode at all, the percussive force dissipating into whatever void improperly anchored ritual work opened. Duds, the soldiers called them, not knowing the particular disappointment of ordnance that unmade itself at the moment of crisis.
+
+Row seven passed inspection. She marked the log and moved on.
+
+The plant floor held six binding circles, each twelve feet across, painted in oxide primer that could withstand the constant foot traffic. During operating hours a ritualist worked each circle, walking the stations where shell casings arrived blank and left prepared. The night shift ran four circles—not enough trained binders to staff all six around the clock, despite the Ministry's increasingly pointed letters about output quotas.
+
+Margaret paused at circle three. The primer showed wear along the eastern arc, footsteps having gradually thinned the painted line. She crouched, running her finger along the surface. Still intact, but perhaps two weeks from becoming a problem. She wrote MAINTENANCE - CIRCLE 3 EAST ARC in the log, knowing the facilities request would sit in someone's tray until the line actually broke and they lost a full shift to repainting and reconsecration.
+
+"Bit early for you."
+
+She looked up. Harold Chen stood at the circle's edge, still wearing his night shift coveralls. He was one of the binders, trained at the emergency programme Oxford had run in thirty-nine when it became clear that Cambridge's annual output of twelve qualified ritualists would not sustain a war effort.
+
+"Production log shows you ran circle three last night," Margaret said. "Four hundred casings?"
+
+"Four hundred and six."
+
+She consulted the log. "It says four hundred."
+
+Harold's expression didn't change. "Six failed binding. I pulled them before they reached the rack."
+
+This was correct procedure, which meant there was no reason for him to be standing here at shift change, waiting for her. Margaret closed the log and stood.
+
+"Show me."
+
+He led her to the rejection bin at the end of the line, a wooden crate marked with red paint. Inside, six shell casings lay jumbled together. They looked identical to the others—machined steel, proper dimensions, regulation weight. Margaret lifted one and checked it through the spectrometer.
+
+The binding spiral began correctly but stuttered halfway up the casing's length. Instead of a continuous wind from base to tip, the pattern fragmented into disconnected loops, like a sentence abandoned mid-word.
+
+"Same flaw on all six?" she asked.
+
+"Near enough. All from the same stock batch. The steel's wrong somehow."
+
+Margaret turned the casing in her hands. The steel looked fine. It weighed correctly. Nothing in its appearance suggested a problem that would only manifest when someone tried to bind ritual energy to its surface.
+
+"Which batch?"
+
+Harold handed her a stock tag. The casings had come from the Bilston foundry, poured two weeks ago, part of a shipment of eight thousand. Margaret did the math without wanting to. If the failure rate held across the batch, they'd lose twelve hundred casings. A week's output from circle three alone.
+
+"Have you told anyone else?"
+
+"Wanted to catch you first." Harold hesitated. "Before the day shift starts asking questions."
+
+Margaret understood. Questions led to investigations. Investigations led to Ministry auditors with their standardized forms and their absolute conviction that production failures resulted from worker negligence rather than material faults. The Bilston foundry had War Office contracts. Suggesting their steel was somehow ritually incompatible would require proof that nobody had the time or equipment to provide.
+
+She could reject the batch. Fill out the paperwork, flag the stock tags, send the casings back to Bilston for remelt. The Ministry would demand explanations. Production would fall short of quota for the third month running. Someone would eventually ask whether the Wellston plant needed new management, someone who could meet targets without excuses.
+
+Or she could pass the batch through. Let the day shift binders attempt their work, hope the failure rate stayed low enough to hide in normal rejection numbers. Perhaps the flaw was limited to a single pour, a single ladle, already exhausted in last night's six failures.
+
+She thought of Davies, his careful marginalia, his insistence on documenting every variance. He'd kept the rejection rate at Wellston under two percent for three years. The Coventry raid had killed him in his home, not at the plant, as though the distinction mattered.
+
+"Pull every casing from that batch," she said. "Mark them for reinspection."
+
+Harold nodded. If he felt relief or disappointment, his face didn't show it.
+
+"The day shift—"
+
+"I'll handle the day shift."
+
+She wrote the order in the log beneath her maintenance note, her handwriting smaller than Davies's but just as cramped. Above her, through the high windows, the sky was lightening toward a pale grey that promised rain. Somewhere across the Channel, soldiers were waiting for munitions that would arrive late, if they arrived at all.
+
+Margaret walked back toward her office to draft the letter that would explain, in language the Ministry might accept, why the Wellston plant would miss its quota again.

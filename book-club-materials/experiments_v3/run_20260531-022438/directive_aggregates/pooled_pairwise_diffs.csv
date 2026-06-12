@@ -1,0 +1,13 @@
+scope,dim,left,right,meanA,meanB,gap,nA,nB,p_value
+pooled,editorial_commitment,neutral,selective,3.583,5.0,-1.417,36,36,0.0001999600079984003
+pooled,editorial_commitment,neutral,selective_blind,3.583,5.0,-1.417,36,36,0.0001999600079984003
+pooled,editorial_commitment,selective,selective_blind,5.0,5.0,0.0,36,36,1.0
+pooled,specificity,neutral,selective,3.778,5.0,-1.222,36,36,0.0001999600079984003
+pooled,specificity,neutral,selective_blind,3.778,4.972,-1.194,36,36,0.0001999600079984003
+pooled,specificity,selective,selective_blind,5.0,4.972,0.028,36,36,1.0
+pooled,takeaway_count,neutral,selective,4.444,6.306,-1.861,36,36,0.0001999600079984003
+pooled,takeaway_count,neutral,selective_blind,4.444,6.806,-2.361,36,36,0.0001999600079984003
+pooled,takeaway_count,selective,selective_blind,6.306,6.806,-0.5,36,36,0.29374125174965005
+pooled,craft_vocab_count,neutral,selective,1.25,6.444,-5.194,36,36,0.0001999600079984003
+pooled,craft_vocab_count,neutral,selective_blind,1.25,2.778,-1.528,36,36,0.0001999600079984003
+pooled,craft_vocab_count,selective,selective_blind,6.444,2.778,3.667,36,36,0.0001999600079984003

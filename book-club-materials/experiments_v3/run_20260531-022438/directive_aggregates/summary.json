@@ -1,0 +1,36 @@
+{
+  "n_directives_coded": 1728,
+  "n_pooled": 108,
+  "n_per_probe": 1620,
+  "headline": {
+    "pooled_commit_neutral": 3.583,
+    "pooled_commit_selective": 5.0,
+    "pooled_commit_blind": 5.0,
+    "pooled_craft_selective": 6.444,
+    "pooled_craft_blind": 2.778,
+    "rubric_leak_check": {
+      "gap": 3.667,
+      "nA": 36,
+      "nB": 36,
+      "meanA": 6.444,
+      "meanB": 2.778,
+      "p_value": 0.0001999600079984003
+    },
+    "rubric_leak_check_perprobe": {
+      "gap": 4.804,
+      "nA": 540,
+      "nB": 540,
+      "meanA": 5.922,
+      "meanB": 1.119,
+      "p_value": 0.0001999600079984003
+    },
+    "invention_perprobe_neutral_vs_selective": {
+      "gap": -0.032,
+      "nA": 540,
+      "nB": 540,
+      "meanA": 0.07,
+      "meanB": 0.101,
+      "p_value": 0.0001999600079984003
+    }
+  }
+}

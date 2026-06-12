@@ -1,0 +1,7 @@
+scope,variant,n,reader_attribution,probe_attribution,conflict_acknowledged
+pooled,neutral,36,0.167,0.361,0.861
+pooled,selective,36,1.0,1.0,1.0
+pooled,selective_blind,36,1.0,1.0,1.0
+per_probe,neutral,540,0.18,0.191,0.569
+per_probe,selective,540,1.0,0.881,0.944
+per_probe,selective_blind,540,1.0,0.831,0.976

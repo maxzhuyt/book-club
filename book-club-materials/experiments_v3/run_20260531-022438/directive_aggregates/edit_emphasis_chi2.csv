@@ -1,0 +1,4 @@
+scope,test,chi2,df,p_value
+pooled,edit_emphasis_x_variant,4.82,10,0.38392321535692864
+per_probe,edit_emphasis_x_variant,156.881,10,0.0001999600079984003
+per_probe,edit_emphasis_x_probe,470.161,20,0.0001999600079984003

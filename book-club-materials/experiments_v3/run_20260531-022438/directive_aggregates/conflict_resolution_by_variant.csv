@@ -1,0 +1,7 @@
+scope,variant,n,commit,aggregate,punt,none,commit_n,aggregate_n,punt_n,none_n
+pooled,neutral,36,0.139,0.25,0.472,0.139,5,9,17,5
+pooled,selective,36,1.0,0.0,0.0,0.0,36,0,0,0
+pooled,selective_blind,36,1.0,0.0,0.0,0.0,36,0,0,0
+per_probe,neutral,540,0.144,0.154,0.27,0.431,78,83,146,233
+per_probe,selective,540,0.937,0.007,0.0,0.056,506,4,0,30
+per_probe,selective_blind,540,0.972,0.004,0.0,0.024,525,2,0,13

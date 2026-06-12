@@ -1,0 +1,36 @@
+# ---- Secrets ----
+.env
+*.env
+**/.env
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+**/.DS_Store
+*.swp
+~$*
+
+# ---- Generated review / export artifacts (regenerable) ----
+book-club-materials/experiments_v3/report_v3/annotations.json
+book-club-materials/experiments_v3/report_v3/*.annotations.json
+book-club-materials/experiments_v3/report_v3/*.docx
+book-club-materials/experiments_v3/report_v3/.brief_for_docx.md
+
+# ---- Bulky raw run outputs (regenerable from code; see README "Reproducing the data") ----
+# Keep only the small aggregates, the 36 story stimuli, and meta.json.
+book-club-materials/experiments_v3/run_20260531-022438/results/
+book-club-materials/experiments_v3/run_20260531-022438/revisions_dataset/
+book-club-materials/experiments_v3/run_20260531-022438/revise_judge_byprobe_v3/
+book-club-materials/experiments_v3/run_20260531-022438/directive_codings/
+book-club-materials/experiments_v3/run_20260531-022438/directive_extras_codings/
+book-club-materials/experiments_v3/run_20260531-022438/writer_judge_v3/
+book-club-materials/experiments_v3/run_20260531-022438/writer_judge_v3_blind/
+book-club-materials/experiments_v3/run_20260531-022438/comparisons/
+book-club-materials/experiments_v3/run_20260531-022438/*.log

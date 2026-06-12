@@ -1,0 +1,206 @@
+{
+  "lexicon": [
+    "structure",
+    "structural",
+    "prose",
+    "pacing",
+    "pace",
+    "character",
+    "characters",
+    "theme",
+    "thematic",
+    "narrative",
+    "device",
+    "motif",
+    "voice",
+    "imagery",
+    "metaphor",
+    "plot",
+    "tension",
+    "craft"
+  ],
+  "members": {
+    "A": [
+      {
+        "user_id": "441197",
+        "hf_frac": 0.404,
+        "n_books": 1129,
+        "n_reviews": 498,
+        "avg_review_words": 71.3,
+        "analyticity": 6.85
+      },
+      {
+        "user_id": "50603889",
+        "hf_frac": 0.379,
+        "n_books": 900,
+        "n_reviews": 654,
+        "avg_review_words": 73.4,
+        "analyticity": 5.4
+      },
+      {
+        "user_id": "12851291",
+        "hf_frac": 0.391,
+        "n_books": 990,
+        "n_reviews": 773,
+        "avg_review_words": 87.6,
+        "analyticity": 3.22
+      },
+      {
+        "user_id": "2260345",
+        "hf_frac": 0.451,
+        "n_books": 552,
+        "n_reviews": 133,
+        "avg_review_words": 133.8,
+        "analyticity": 8.82
+      },
+      {
+        "user_id": "92486679",
+        "hf_frac": 0.548,
+        "n_books": 146,
+        "n_reviews": 84,
+        "avg_review_words": 157.1,
+        "analyticity": 7.43
+      },
+      {
+        "user_id": "22227336",
+        "hf_frac": 0.447,
+        "n_books": 407,
+        "n_reviews": 249,
+        "avg_review_words": 260.5,
+        "analyticity": 5.3
+      },
+      {
+        "user_id": "24672869",
+        "hf_frac": 0.374,
+        "n_books": 778,
+        "n_reviews": 377,
+        "avg_review_words": 283.0,
+        "analyticity": 4.2
+      },
+      {
+        "user_id": "4685500",
+        "hf_frac": 0.44,
+        "n_books": 100,
+        "n_reviews": 1071,
+        "avg_review_words": 316.9,
+        "analyticity": 4.81
+      },
+      {
+        "user_id": "4196681",
+        "hf_frac": 0.407,
+        "n_books": 804,
+        "n_reviews": 431,
+        "avg_review_words": 436.9,
+        "analyticity": 7.56
+      },
+      {
+        "user_id": "632247",
+        "hf_frac": 0.391,
+        "n_books": 1900,
+        "n_reviews": 2051,
+        "avg_review_words": 488.1,
+        "analyticity": 4.75
+      }
+    ],
+    "B": [
+      {
+        "user_id": "152291541",
+        "hf_frac": 0.046,
+        "n_books": 392,
+        "n_reviews": 173,
+        "avg_review_words": 269.1,
+        "analyticity": 6.77
+      },
+      {
+        "user_id": "430758",
+        "hf_frac": 0.043,
+        "n_books": 1200,
+        "n_reviews": 173,
+        "avg_review_words": 135.0,
+        "analyticity": 3.0
+      },
+      {
+        "user_id": "90413527",
+        "hf_frac": 0.042,
+        "n_books": 384,
+        "n_reviews": 102,
+        "avg_review_words": 222.5,
+        "analyticity": 8.33
+      },
+      {
+        "user_id": "155007415",
+        "hf_frac": 0.03,
+        "n_books": 164,
+        "n_reviews": 102,
+        "avg_review_words": 211.9,
+        "analyticity": 5.69
+      },
+      {
+        "user_id": "665584",
+        "hf_frac": 0.037,
+        "n_books": 2014,
+        "n_reviews": 1373,
+        "avg_review_words": 495.6,
+        "analyticity": 4.53
+      },
+      {
+        "user_id": "181538130",
+        "hf_frac": 0.05,
+        "n_books": 100,
+        "n_reviews": 86,
+        "avg_review_words": 82.1,
+        "analyticity": 9.91
+      },
+      {
+        "user_id": "29005117",
+        "hf_frac": 0.049,
+        "n_books": 1165,
+        "n_reviews": 1165,
+        "avg_review_words": 275.6,
+        "analyticity": 1.09
+      },
+      {
+        "user_id": "102159719",
+        "hf_frac": 0.047,
+        "n_books": 600,
+        "n_reviews": 1682,
+        "avg_review_words": 103.4,
+        "analyticity": 10.78
+      },
+      {
+        "user_id": "35794399",
+        "hf_frac": 0.044,
+        "n_books": 407,
+        "n_reviews": 227,
+        "avg_review_words": 489.1,
+        "analyticity": 3.32
+      },
+      {
+        "user_id": "2048557",
+        "hf_frac": 0.046,
+        "n_books": 2282,
+        "n_reviews": 758,
+        "avg_review_words": 183.7,
+        "analyticity": 6.45
+      }
+    ]
+  },
+  "group_means": {
+    "avg_review_words": {
+      "A": 230.85,
+      "B": 246.8
+    },
+    "analyticity": {
+      "A": 5.83,
+      "B": 5.99
+    },
+    "n_books": {
+      "A": 770.6,
+      "B": 870.8
+    },
+    "hf_frac": {
+      "A": 0.42,
+      "B": 0.04
+    }
+  }
+}

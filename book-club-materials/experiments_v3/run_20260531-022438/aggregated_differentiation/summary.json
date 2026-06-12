@@ -1,0 +1,38 @@
+{
+  "n_pass2_rows": 720,
+  "n_pass1_rows": 720,
+  "n_stories": 36,
+  "n_per_group": {
+    "A": 360,
+    "B": 360
+  },
+  "n_per_probe": {
+    "P4": 144,
+    "P3": 144,
+    "P2": 144,
+    "P5": 144,
+    "P1": 144
+  },
+  "probe_differentiation": {
+    "period_specificity": {
+      "eta2": 0.3089,
+      "p_value": 9.999000099990002e-05
+    },
+    "concreteness": {
+      "eta2": 0.1078,
+      "p_value": 9.999000099990002e-05
+    },
+    "knowledge_invoked": {
+      "eta2": 0.3186,
+      "p_value": 9.999000099990002e-05
+    },
+    "locations_cited": {
+      "eta2": 0.0402,
+      "p_value": 0.00019998000199980003
+    },
+    "anchors": {
+      "eta2": 0.1581,
+      "p_value": 9.999000099990002e-05
+    }
+  }
+}

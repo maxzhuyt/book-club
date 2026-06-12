@@ -1,0 +1,7 @@
+scope,left,right,meanA,meanB,gap,nA,nB,p_value
+pooled,neutral,selective,0.135,0.156,-0.021,36,36,0.3031393721255749
+pooled,selective,selective_blind,0.156,0.164,-0.008,36,36,0.6074785042991402
+pooled,neutral,selective_blind,0.135,0.164,-0.029,36,36,0.17776444711057787
+per_probe,neutral,selective,0.07,0.101,-0.032,540,540,0.0001999600079984003
+per_probe,selective,selective_blind,0.101,0.108,-0.006,540,540,0.2959408118376325
+per_probe,neutral,selective_blind,0.07,0.108,-0.038,540,540,0.0001999600079984003

@@ -1,0 +1,11 @@
+probe,probe_name,group,n,historical,generic-genre,mixed,none,historical_n,generic-genre_n,mixed_n,none_n
+P1,Plausibility,A,72,0.861,0.0,0.125,0.014,62,0,9,1
+P1,Plausibility,B,72,0.806,0.0,0.181,0.014,58,0,13,1
+P2,Knowledge-gap,A,72,0.806,0.0,0.111,0.083,58,0,8,6
+P2,Knowledge-gap,B,72,0.722,0.014,0.167,0.097,52,1,12,7
+P3,Stability,A,72,0.597,0.056,0.125,0.222,43,4,9,16
+P3,Stability,B,72,0.306,0.278,0.097,0.319,22,20,7,23
+P4,Convention,A,72,0.5,0.139,0.361,0.0,36,10,26,0
+P4,Convention,B,72,0.347,0.222,0.431,0.0,25,16,31,0
+P5,Salience,A,72,0.569,0.028,0.014,0.389,41,2,1,28
+P5,Salience,B,72,0.347,0.278,0.056,0.319,25,20,4,23

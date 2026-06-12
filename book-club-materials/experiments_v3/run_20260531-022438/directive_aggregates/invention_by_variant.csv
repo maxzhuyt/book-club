@@ -1,0 +1,7 @@
+scope,variant,n,invention_rate,n_moves,n_invented
+pooled,neutral,36,0.135,4.67,0.67
+pooled,selective,36,0.156,8.33,1.31
+pooled,selective_blind,36,0.164,8.75,1.42
+per_probe,neutral,540,0.07,3.55,0.26
+per_probe,selective,540,0.101,7.04,0.73
+per_probe,selective_blind,540,0.108,7.12,0.79

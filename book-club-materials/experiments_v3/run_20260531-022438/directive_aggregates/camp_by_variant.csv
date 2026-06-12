@@ -1,0 +1,7 @@
+scope,variant,n,period,generic,balanced,none,period_n,generic_n,balanced_n,none_n
+pooled,neutral,36,0.417,0.028,0.556,0.0,15,1,20,0
+pooled,selective,36,0.722,0.0,0.278,0.0,26,0,10,0
+pooled,selective_blind,36,0.333,0.056,0.611,0.0,12,2,22,0
+per_probe,neutral,540,0.157,0.239,0.557,0.046,85,129,301,25
+per_probe,selective,540,0.476,0.241,0.283,0.0,257,130,153,0
+per_probe,selective_blind,540,0.287,0.354,0.359,0.0,155,191,194,0
