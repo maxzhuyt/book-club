@@ -34,3 +34,13 @@ book-club-materials/experiments_v3/run_20260531-022438/writer_judge_v3/
 book-club-materials/experiments_v3/run_20260531-022438/writer_judge_v3_blind/
 book-club-materials/experiments_v3/run_20260531-022438/comparisons/
 book-club-materials/experiments_v3/run_20260531-022438/*.log
+
+# ---- CD reader-differentiation PoC (experiments_cd_poc): regenerable outputs ----
+# Keep the code, the aggregated CSVs, and the reports; drop the per-response
+# generations + SLURM logs (regenerable from run_cd_poc.py).
+book-club-materials/experiments_cd_poc/run_cd_poc/
+book-club-materials/experiments_cd_poc/cd_poc_*.log
+
+# ---- Original book-club CD simulation (contrastive_decoding): regenerable outputs ----
+book-club-materials/contrastive_decoding/simulation/outputs_*/
+book-club-materials/contrastive_decoding/simulation/scripts/*.log

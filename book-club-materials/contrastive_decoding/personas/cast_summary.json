@@ -1,0 +1,110 @@
+{
+  "panel_size": 8,
+  "description": "Maximally-diverse panel of 8 Goodreads-grounded reader personas for book club simulation.",
+  "cast": [
+    {
+      "user_id": "69106439",
+      "file": "user_69106439.md",
+      "label": "The Emotional Reader",
+      "role": "Leads with gut reaction and emotional resonance. Characters must feel real.",
+      "n_books": 1171,
+      "era": "mostly contemporary (2010s\u2013present)",
+      "median_year": 2011,
+      "tone": "emotionally expressive",
+      "avg_review_words": 2152,
+      "emotionality": 9.4,
+      "analyticity": 1.5
+    },
+    {
+      "user_id": "3427339",
+      "file": "user_3427339.md",
+      "label": "The Emotional Reader",
+      "role": "Leads with gut reaction and emotional resonance. Characters must feel real.",
+      "n_books": 300,
+      "era": "late-20th-century titles",
+      "median_year": 2009,
+      "tone": "emotionally expressive",
+      "avg_review_words": 1366,
+      "emotionality": 4.2,
+      "analyticity": 2.7
+    },
+    {
+      "user_id": "7313087",
+      "file": "user_7313087.md",
+      "label": "The Classic Romantic",
+      "role": "Drawn to enduring stories. Emotionally engaged with timeless themes and lyrical prose.",
+      "n_books": 1600,
+      "era": "late-20th-century titles",
+      "median_year": 1995,
+      "tone": "emotionally expressive",
+      "avg_review_words": 383,
+      "emotionality": 3.1,
+      "analyticity": 1.8
+    },
+    {
+      "user_id": "5431458",
+      "file": "user_5431458.md",
+      "label": "The Classic Romantic",
+      "role": "Drawn to enduring stories. Emotionally engaged with timeless themes and lyrical prose.",
+      "n_books": 573,
+      "era": "strongly classic / pre-1950",
+      "median_year": 1934,
+      "tone": "emotionally expressive",
+      "avg_review_words": 404,
+      "emotionality": 4.0,
+      "analyticity": 1.5
+    },
+    {
+      "user_id": "1375548",
+      "file": "user_1375548.md",
+      "label": "The Thoughtful General Reader",
+      "role": "Balanced taste and moderate style. Representing the mainstream book club voice.",
+      "n_books": 1419,
+      "era": "late-20th-century titles",
+      "median_year": 1992,
+      "tone": "balanced emotional-analytical",
+      "avg_review_words": 563,
+      "emotionality": 3.9,
+      "analyticity": 5.7
+    },
+    {
+      "user_id": "84023",
+      "file": "user_84023.md",
+      "label": "The Historical Scholar",
+      "role": "Deep knowledge of historical periods. Values period accuracy and research detail above all.",
+      "n_books": 1100,
+      "era": "a mix of classic and contemporary titles",
+      "median_year": 1984,
+      "tone": "analytically focused",
+      "avg_review_words": 1338,
+      "emotionality": 1.7,
+      "analyticity": 4.9
+    },
+    {
+      "user_id": "22227336",
+      "file": "user_22227336.md",
+      "label": "The Historical Scholar",
+      "role": "Deep knowledge of historical periods. Values period accuracy and research detail above all.",
+      "n_books": 407,
+      "era": "late-20th-century titles",
+      "median_year": 1998,
+      "tone": "balanced emotional-analytical",
+      "avg_review_words": 269,
+      "emotionality": 1.9,
+      "analyticity": 2.6
+    },
+    {
+      "user_id": "62478339",
+      "file": "user_62478339.md",
+      "label": "The Pragmatic Reader",
+      "role": "Reads for enjoyment and pace. Values clarity, momentum, and satisfying payoff.",
+      "n_books": 200,
+      "era": "mostly contemporary (2010s\u2013present)",
+      "median_year": 2020,
+      "tone": "emotionally expressive",
+      "avg_review_words": 42,
+      "emotionality": 16.5,
+      "analyticity": 2.4
+    }
+  ]
+}
