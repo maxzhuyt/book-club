@@ -6,6 +6,8 @@ Book Club V3 is a three-stage LLM pipeline run over 36 counterfactual historical
 
 > **Status.** Research code + intermediate results. The headline numbers and every figure are reproducible from the small aggregate tables committed here; the bulky per-response LLM outputs (~15.6k files) are regenerable from the code and are not committed (see [Reproducing the data](#reproducing-the-data)).
 
+> **Scope.** This README documents **Book Club V3**. The repo is a small monorepo: two related contrastive-decoding sub-projects live alongside it, each self-documented — [`contrastive_decoding/`](book-club-materials/contrastive_decoding/) (keeping persona *voices* distinct in a book-club simulation) and [`experiments_cd_poc/`](book-club-materials/experiments_cd_poc/) (testing whether contrastive decoding sharpens reader-*group* differences in the V3 setup).
+
 ---
 
 ## The question
@@ -24,7 +26,7 @@ Historical fiction asks a reader to hold two things at once: a story, and a *per
 
 ```
 temporal distance   {recent, middle, distant}     (how far in the past)
-narrative scope     {sp, sys}                      (cell-name axis)
+narrative scope     {sp, sys}                      (sp = single character's POV, sys = institutional/multi-character)
 counterfactual type {pure, fantastical}            (plausible alt-history vs. fantastical premise)
    3 × 2 × 2 = 12 cells × 3 runs = 36 stories       e.g. cell-09-distant-sp-pure__run2
 ```
@@ -105,7 +107,9 @@ book-club/
 └── book-club-materials/
     ├── canons/CRAFT_GUIDE.md                 judge's craft rubric (consumed by judge.py)
     ├── experiments/runners/                  V1 writer + judge, reused by the V3 sweeps
-    └── experiments_v3/                        ← main code; run scripts from here
+    ├── contrastive_decoding/                  CD persona-voice book-club simulation — see its README
+    ├── experiments_cd_poc/                    CD reader-group differentiation PoC — see its README
+    └── experiments_v3/                        ← main project (this README); run scripts from here
         ├── client_v2.py                       OpenRouter async client (reads $NARRATIVE)
         ├── groups.py · groups.json            A/B reader membership + balance stats
         ├── persona_build.py · personas_v3/    20 persona prompts + index
@@ -213,5 +217,5 @@ but it is a real data-quality caveat — see the reader brief.
 
 ## Model & license
 
-- **Model:** `deepseek/deepseek-v4-flash` via OpenRouter (readers, editors, writer, judge, and coders).
+- **Model:** `deepseek/deepseek-v4-flash` via OpenRouter (readers, editors, writer, judge, and coders). The `contrastive_decoding/` and `experiments_cd_poc/` sub-projects instead run **open models locally** (e.g. Qwen3-32B) — each documents its own in its README.
 - **License:** MIT — see [LICENSE](LICENSE).
