@@ -1,0 +1,15 @@
+# Structural Beats for "The Mammoth Question"
+## An Original Scene: Royal Geographical Society, London, 1872
+
+1. **Establish the Institutional Stakes** — Open with the meeting already in tension; the Society has received reports of declining mammoth herds in eastern Siberia, and rival nations (particularly Russia and the nascent German Empire) are mounting their own expeditions. Britain's prestige in megafaunal natural history hangs in the balance.
+
+2. **Introduce Competing Agendas Through Character** — Present at least three distinct voices: a specimen-focused naturalist who wants study skins and skeletal mounts for the British Museum, a commercial pragmatist interested in ivory and hide trade routes, and a younger dissenter who questions whether collection accelerates the very extinction they claim to document.
+
+3. **Surface the Logistical Complications** — The debate must grapple with practical difficulties unique to living megafauna: transport of live juveniles versus preserved adults, the diplomatic complexities of operating in Russian territory, the specialized equipment needed for creatures of such scale, and the indigenous Siberian knowledge that expeditions depend upon but rarely credit.
+
+4. **Introduce an Unexpected Piece of Intelligence** — A letter, returned explorer, or telegram disrupts the planning with new information: perhaps a herd sighting further north than expected, a Russian embargo, or troubling news about a previous expedition's fate. This reframes the debate's urgency.
+
+5. **Close on a Decision That Carries Moral Weight** — The committee reaches a resolution, but the scene ends with lingering unease. The reader should understand that whatever course is chosen implicates these men in larger imperial and ecological consequences they only partially comprehend.
+
+---
+*These beats allow the scene to function as worldbuilding, character introduction, and thematic statement while maintaining narrative momentum toward the expedition itself.*

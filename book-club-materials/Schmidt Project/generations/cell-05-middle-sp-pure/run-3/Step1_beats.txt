@@ -1,0 +1,13 @@
+# Key Structural Beats for Winter Palace Memo Scene (1885)
+
+Based on the counterfactual premise of Alexander II's survival and continued reforms, here are the five essential structural elements this scene needs to accomplish:
+
+1. **Establish the Bureaucrat's Position and Perspective** - Introduce the protagonist through their relationship to power: their rank within the imperial administration, their physical location within the Winter Palace, and their personal investment in the reform agenda. Their status shapes both their access to information and the weight their memo might carry.
+
+2. **Convey the Reform Context Through the Work Itself** - The content of the memo should organically reveal the alternate history's trajectory: what reforms have already been implemented since 1861, what obstacles remain, and what this "next phase" entails. The document becomes a vehicle for worldbuilding without exposition dumps.
+
+3. **Introduce Tension Through Competing Interests** - The bureaucrat must navigate conflicting pressures as they draft: conservative nobles resisting land redistribution, liberal reformers pushing for faster change, peasant grievances, and the Tsar's own evolving vision. These pressures should manifest concretely in word choices, deletions, and revisions.
+
+4. **Create Intimate Stakes Within Institutional Action** - Ground the abstract policy work in personal consequences: the bureaucrat's career ambitions, their family origins, debts owed to patrons, or genuine ideological commitments that make this memo matter beyond paperwork.
+
+5. **End with Uncertainty or Complication** - Conclude with an element that destabilizes the bureaucrat's efforts: an interruption, a piece of troubling news, a self-doubt, or a discovery within their research that suggests the reforms face unexpected challenges.

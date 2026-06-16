@@ -1,0 +1,63 @@
+# The Broadcast
+
+The cellar beneath the Château de Vaumont stayed cold regardless of the season. Major Edward Holloway had requisitioned three electric heaters, but they only managed to bring the temperature up to a point where his fingers remained functional on the dial. He supposed he should be grateful. In August, while the rest of France sweltered through liberation, his little kingdom of damp stone and humming equipment maintained a clinical chill perfectly suited to concentration.
+
+He checked his watch: 0347. Lieutenant Marsh had logged off four hours ago after capturing a fragment of German naval communication dated November 1944—next month, still useful, already being couriered to SHAEF. Standard procedure now. They'd developed protocols for everything: the logbook with its careful notations of date-captured versus date-sourced, the carbon copies for London, the cipher system for transmission priorities. Two months ago, when they'd pulled the device from that bunker outside Strasbourg, Holloway had barely slept for the terrifying novelty of it. Now he operated on schedules.
+
+He adjusted the dial, moving through the frequencies with practiced micro-movements. The device looked like nothing special—a radio set with too many knobs and a central dial marked in units that corresponded to no measurement system he'd ever encountered. The German physicists had labeled nothing in language. Only numbers, and those in a sequence that still troubled the mathematicians back in London.
+
+The needle swept past static, caught voices, lost them. A French broadcast from what sounded like Christmas 1944. Holloway noted it, moved on. Churchill's voice, a speech he didn't recognize—he lingered on that, transcribing key phrases until the signal degraded. Dated it tentatively as spring 1945 based on contextual references to "the European theater" in the past tense.
+
+Then the needle crossed into a band of dead air.
+
+Holloway almost moved past it. Dead bands were common; not every frequency carried signal, and not every moment in history apparently merited broadcast. But something made him slow his hand. A faint carrier wave. The barest suggestion of structure beneath the static.
+
+He made a minute adjustment. The static resolved.
+
+The voice that emerged spoke English, but it took Holloway a long moment to recognize it as such. The accent sat wrong in his ear—flattened vowels, clipped consonants, a rhythm that suggested American but not quite any American dialect he knew. The voice was female, which surprised him. Confident, professional. A newsreader's cadence.
+
+"—confirmed that the device yield exceeded initial projections by a factor of three. Officials in Washington have declined to comment on reports from the monitoring station at—" Static swallowed the location. "—while the Soviet delegation has formally withdrawn from proceedings, citing what Ambassador Volkov termed 'fundamental incompatibility with the stated framework.'"
+
+Holloway's pen moved automatically across the logbook. He wrote what he heard without understanding it. Device yield. Factor of three. The terminology suggested military application but matched nothing in his lexicon.
+
+"In related developments, the Emergency Relocation Authority has extended the evacuation order to include all coastal zones below the—" A number, but the static made it uncertain. Fifty? Fifteen? "—meter threshold. Transportation Secretary Hoffman emphasized that the timeline remains, quote, 'ambitious but achievable,' end quote, though independent analysts have questioned the infrastructure capacity for population movements of this scale."
+
+Holloway's pen slowed. Evacuation order. Coastal zones. Population movements.
+
+He rewound the device—another mystery of its operation; it captured broadcasts on some internal medium that permitted review—and listened again. The words remained the same. His confusion remained the same.
+
+The broadcast continued. "This marks the seventeenth day of the provisional government's tenure following the invocation of Continuity Protocol Seven. President—" The name dissolved into noise. "—is expected to address the nation tomorrow evening from the secure facility in—" Another gap.
+
+Holloway stopped the playback. He examined the dial settings and consulted the calibration notes Marsh had compiled during their first weeks with the device. The numbers suggested a date far beyond their usual range. They'd captured broadcasts from as far ahead as summer 1945—nine months, roughly, seemed to be the reliable limit. This reading indicated something considerably further.
+
+He didn't trust the calibration. The device was, after all, impossible. Its limitations remained largely theoretical.
+
+He played the broadcast again from the beginning, transcribing with greater care. The female newsreader moved through her items with the practiced ease of routine apocalypse. There were references to "the Auckland Protocol" and "secondary detonation windows" and "genetic screening requirements for Zone A residency." There was a brief segment on food rationing that used units of measurement Holloway didn't recognize. There was weather—"continued elevated readings across the northern hemisphere, with provisional clearance for outdoor activity in approved sectors only."
+
+The broadcast ended with a time check. "The time is now fourteen hundred hours, Eastern Provisional Standard Time. This concludes our emergency update. The next scheduled broadcast will occur at twenty-two hundred hours. Citizens are reminded that unauthorized radio operation remains a capital offense under Continuity Protocol Seven, Section Twelve. Stay indoors. Stay informed. Stay alive."
+
+A tone. Then static.
+
+Holloway sat very still in the cold cellar. Above him, the Château de Vaumont held perhaps forty Allied personnel, sleeping or standing watch or playing cards in the parlor that served as their common room. Beyond the Château, France continued its slow recovery from occupation. Beyond France, the war continued—men dying for territory, for ideology, for simple survival. All of it still mattering, presumably. All of it still worth the blood.
+
+He looked at his notes. Device yield. Evacuation order. Capital offense. Continuity Protocol Seven.
+
+The words assembled themselves into shapes just beyond his recognition. He understood English. He understood war. He understood, after two months with the device, that the future was not fixed—that the broadcasts sometimes contradicted each other, that timelines seemed to branch and merge in ways London's theorists were still mapping. The future they heard was a future, not the future. This had been explained to him.
+
+But this broadcast didn't feel like a branch. It felt like a trunk.
+
+He should wake Marsh. He should encode a priority message for London. He should follow the protocols they'd established because protocols existed precisely for moments when judgment felt inadequate.
+
+Instead, Holloway rewound the device and listened again. The newsreader's voice filled the cellar, calm and professional, describing what sounded very much like the end of everything he was fighting to protect.
+
+Seventeenth day of the provisional government.
+
+He wrote that phrase three times in his logbook, pressing hard enough that the pencil tip broke on the third repetition.
+
+Then he closed the logbook, removed the transcription pages, and folded them into his breast pocket. He powered down the device according to procedure. He logged the session as "equipment calibration, no significant intercepts" and signed his name with a steady hand.
+
+At 0426, Major Edward Holloway climbed the cellar stairs and stepped into a warm August night that smelled of cut grass and distant fires. The war surrounded him in all directions. It seemed very small now. It seemed like something happening in a single room of a very large house, while elsewhere in that house, behind closed doors, something else was happening entirely.
+
+He lit a cigarette and stood in the darkness, the transcription pages crisp against his chest, and tried to decide what a man was supposed to do with knowledge that couldn't possibly help anyone—that might, if he was wrong about what it meant, help no one at all—but that he also couldn't pretend he hadn't heard.
+
+The cigarette burned down to his fingers before he moved.

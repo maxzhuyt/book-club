@@ -109,6 +109,7 @@ book-club/
     ├── experiments/runners/                  V1 writer + judge, reused by the V3 sweeps
     ├── contrastive_decoding/                  CD persona-voice book-club simulation — see its README
     ├── experiments_cd_poc/                    CD reader-group differentiation PoC — see its README
+    ├── Schmidt Project/generations/           36 story stimuli (12 cells × 3 runs): seed premise · beats · final scene
     └── experiments_v3/                        ← main project (this README); run scripts from here
         ├── client_v2.py                       OpenRouter async client (reads $NARRATIVE)
         ├── groups.py · groups.json            A/B reader membership + balance stats
